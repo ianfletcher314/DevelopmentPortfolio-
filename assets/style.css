@@ -54,3 +54,13 @@
     margin-bottom: 10%!important;   
     
 }
+.bradius{
+    border-radius: 25px!important;
+    border-style: outset!important;
+    border-color: grey!important;
+    border-width: 1px!important;
+}
+.layer{
+    max-width: 49%!important;
+
+}
