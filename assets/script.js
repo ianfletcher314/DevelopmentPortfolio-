@@ -7,14 +7,21 @@ const redirectEtb = () => {
 const redirectMrf = () => {
     console.log("mrfworking")
 }
-const redirectP2 = () => {
-    console.log("P1working")
-}
 const redirectP1 = () => {
+    console.log("P1working")
+  
+    window.location.replace("https://samuel6roth.github.io/HoroscopeFinder/");
+}
+const redirectP2 = () => {
     console.log("P2working")
+    window.location.replace("https://ianfletcher314.github.io/TekTalk/");
+    
 }
 const redirectP3 = () => {
     console.log("P3working")
+   
+    window.location.replace("https://lit-escarpment-01189.herokuapp.com/")
+    
 }
 
 
