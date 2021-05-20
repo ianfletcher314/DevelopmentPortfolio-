@@ -39,3 +39,18 @@
     max-width: 75%!important;
 
 }
+.space{
+    display: flex!important;
+    flex-direction: row!important;
+    justify-content: space-between!important;
+    font-size: 20px!important;
+    margin-top: 10%!important;
+    margin-bottom: 10%!important;   
+}
+.footerformat{ 
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    margin-bottom: 10%!important;   
+    
+}
