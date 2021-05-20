@@ -31,6 +31,7 @@ const redirectP3 = () => {
 
 
 
+
 document.getElementById("etblink").addEventListener("click", redirectEtb)
 document.getElementById("mrflink").addEventListener("click", redirectMrf)
 document.getElementById("project3").addEventListener("click", redirectP1)
