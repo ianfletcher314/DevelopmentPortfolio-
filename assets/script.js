@@ -14,7 +14,7 @@ const redirectP1 = () => {
 }
 const redirectP2 = () => {
     console.log("P2working")
-    window.location.replace("https://ianfletcher314.github.io/TekTalk/");
+    window.location.replace("https://github.com/ianfletcher314/StaffMaker");
     
 }
 const redirectP3 = () => {
